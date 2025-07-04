@@ -4,7 +4,7 @@ Delivery Game is a driving game created with Unity, where you control a delivery
 =========================
 Overview
 =========================
-Genre: 2D
+Genre: 2D\n
 Goal: Collect and deliver packages to designated spots
 Controls: Use keyboard to steer and accelerate
 Visual Style: Colorful pixel art with stylized environment and responsive UI
